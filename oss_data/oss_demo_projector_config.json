@@ -9,7 +9,7 @@
     {
       "tensorName": "Neural MMO tasks (deepseek 1.3b)",
       "tensorShape": [1360, 2048],
-      "tensorPath": "oss_data/nmmo_task_embeddings_deepseek1b.tsv",
+      "tensorPath": "oss_data/nmmo_task_embeddings_deepseek_1b.tsv",
       "metadataPath": "oss_data/nmmo_task_metadata.tsv"
     },
     {
