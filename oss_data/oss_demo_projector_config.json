@@ -1,9 +1,15 @@
 {
   "embeddings": [
     {
-      "tensorName": "Neural MMO tasks",
+      "tensorName": "Neural MMO tasks (codegen2 7b)",
       "tensorShape": [1360, 4096],
-      "tensorPath": "oss_data/nmmo_task_embeddings.tsv",
+      "tensorPath": "oss_data/nmmo_task_embeddings_codegen2_7b.tsv",
+      "metadataPath": "oss_data/nmmo_task_metadata.tsv"
+    },
+    {
+      "tensorName": "Neural MMO tasks (deepseek 1.3b)",
+      "tensorShape": [1360, 2048],
+      "tensorPath": "oss_data/nmmo_task_embeddings_deepseek1b.tsv",
       "metadataPath": "oss_data/nmmo_task_metadata.tsv"
     },
     {
